@@ -1,4 +1,4 @@
-# Store Sales Forecasting on Kaggle.com! 
+# Store Sales Forecasting on Kaggle.com! 📈
 ### (Predictive Model for Time Series)
 
 ## Contents
